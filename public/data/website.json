@@ -46,5 +46,11 @@
       "description": "เว็ปศูนย์หนังสือมหาวิทยาลัยเกษตรศาสตร์",
       "url": "https://www.kubookol.com/",
       "tag": "official"
+    },
+    {
+      "name": "KU HACKATHON",
+      "description": "เว็ปจัดงาน HACKATHON จัดโดย Ku-tech",
+      "url": "https://hackathon.ku.ac.th/",
+      "tag": "community"
     }
   ]
